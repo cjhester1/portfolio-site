@@ -1,5 +1,3 @@
-
-
 ---
 
 # My Portfolio
@@ -28,10 +26,6 @@ Welcome to my portfolio! This website showcases my projects, skills, and experie
 
 2. **Open the project:**
     Open the index.html file in your preferred web browser.
-
-## Contributing
-
-Contributions are welcome! If you find any bugs or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
 ## License
 
