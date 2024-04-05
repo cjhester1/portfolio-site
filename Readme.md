@@ -23,7 +23,7 @@ Welcome to my portfolio! This website showcases my projects, skills, and experie
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/your-portfolio.git
+    git clone https://github.com/cjhester1/portfolio-site.git
     ```
 
 2. **Open the project:**
@@ -39,7 +39,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-If you have any questions or just want to connect, you can reach me at [your-email@example.com](mailto:your-email@example.com).
+If you have any questions or just want to connect, you can reach me at [cjhester23@gmail.com](mailto:cjhester23l@gmail.com).
 
 ---
 
